@@ -97,142 +97,198 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "quidem molestiae enim"
+    "title": "quidem molestiae enim",
+    "countPhotos": 6,
+    "url": "https://via.placeholder.com/600/92c952"
   },
   {
     "userId": 1,
     "id": 2,
-    "title": "sunt qui excepturi placeat culpa"
+    "title": "sunt qui excepturi placeat culpa",
+    "countPhotos": 5,
+    "url": "https://via.placeholder.com/600/8e973b"
   },
   {
     "userId": 1,
     "id": 3,
-    "title": "omnis laborum odio"
+    "title": "omnis laborum odio",
+    "countPhotos": 1,
+    "url": "https://via.placeholder.com/600/e743b"
   },
   {
     "userId": 1,
     "id": 4,
-    "title": "non esse culpa molestiae omnis sed optio"
+    "title": "non esse culpa molestiae omnis sed optio",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 1,
     "id": 5,
-    "title": "eaque aut omnis a"
+    "title": "eaque aut omnis a",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 1,
     "id": 6,
-    "title": "natus impedit quibusdam illo est"
+    "title": "natus impedit quibusdam illo est",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 1,
     "id": 7,
-    "title": "quibusdam autem aliquid et et quia"
+    "title": "quibusdam autem aliquid et et quia",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 1,
     "id": 8,
-    "title": "qui fuga est a eum"
+    "title": "qui fuga est a eum",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 1,
     "id": 9,
-    "title": "saepe unde necessitatibus rem"
+    "title": "saepe unde necessitatibus rem",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 1,
     "id": 10,
-    "title": "distinctio laborum qui"
+    "title": "distinctio laborum qui",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 2,
     "id": 11,
-    "title": "quam nostrum impedit mollitia quod et dolor"
+    "title": "quam nostrum impedit mollitia quod et dolor",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 2,
     "id": 12,
-    "title": "consequatur autem doloribus natus consectetur"
+    "title": "consequatur autem doloribus natus consectetur",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 2,
     "id": 13,
-    "title": "ab rerum non rerum consequatur ut ea unde"
+    "title": "ab rerum non rerum consequatur ut ea unde",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 2,
     "id": 14,
-    "title": "ducimus molestias eos animi atque nihil"
+    "title": "ducimus molestias eos animi atque nihil",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 2,
     "id": 15,
-    "title": "ut pariatur rerum ipsum natus repellendus praesentium"
+    "title": "ut pariatur rerum ipsum natus repellendus praesentium",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 2,
     "id": 16,
-    "title": "voluptatem aut maxime inventore autem magnam atque repellat"
+    "title": "voluptatem aut maxime inventore autem magnam atque repellat",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 2,
     "id": 17,
-    "title": "aut minima voluptatem ut velit"
+    "title": "aut minima voluptatem ut velit",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 2,
     "id": 18,
-    "title": "nesciunt quia et doloremque"
+    "title": "nesciunt quia et doloremque",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 2,
     "id": 19,
-    "title": "velit pariatur quaerat similique libero omnis quia"
+    "title": "velit pariatur quaerat similique libero omnis quia",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 2,
     "id": 20,
-    "title": "voluptas rerum iure ut enim"
+    "title": "voluptas rerum iure ut enim",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 3,
     "id": 21,
-    "title": "repudiandae voluptatem optio est consequatur rem in temporibus et"
+    "title": "repudiandae voluptatem optio est consequatur rem in temporibus et",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 3,
     "id": 22,
-    "title": "et rem non provident vel ut"
+    "title": "et rem non provident vel ut",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 3,
     "id": 23,
-    "title": "incidunt quisquam hic adipisci sequi"
+    "title": "incidunt quisquam hic adipisci sequi",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 3,
     "id": 24,
-    "title": "dolores ut et facere placeat"
+    "title": "dolores ut et facere placeat",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 3,
     "id": 25,
-    "title": "vero maxime id possimus sunt neque et consequatur"
+    "title": "vero maxime id possimus sunt neque et consequatur",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 3,
     "id": 26,
-    "title": "quibusdam saepe ipsa vel harum"
+    "title": "quibusdam saepe ipsa vel harum",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 3,
     "id": 27,
-    "title": "id non nostrum expedita"
+    "title": "id non nostrum expedita",
+    "countPhotos": 0,
+    "url": null
   },
   {
     "userId": 3,
     "id": 28,
-    "title": "omnis neque exercitationem sed dolor atque maxime aut cum"
+    "title": "omnis neque exercitationem sed dolor atque maxime aut cum",
+    "countPhotos": 0,
+    "url": null
   }
 ],
 "photos": [
